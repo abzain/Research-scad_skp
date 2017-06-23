@@ -1,0 +1,15 @@
+HEATING CURVE 1										
+	Current	Field	Heating slope	Cooling slope	Adjusted slope	SLP			Time	Cooling slope
+CURVE1	151.2	0.03540	0.5414	-0.02705	0.56845	28.9342			CURVE1	-0.03182
+CURVE2	151.2	0.03540	0.484	-0.02092	0.50492	25.7006			CURVE2	-0.02228
+CURVE3	151.2	0.03540	0.5427	-0.01956	0.56226	28.6192			CURVE3	-0.01956
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
